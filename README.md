@@ -13,14 +13,18 @@ _Para poder llevar a cabo el juego de bolos se deben seguir los siguientes pasos
 1. Verificar que el control inalámbrico esté encendido. 
 Se dará cuenta ya que las luces de la ESP32 y del acelerómetro/giroscopio estarán encendidas.
 2. Conectar el mando inalámbrico al computador por medio del emparejamiento Bluetooth.
-3. Abrir el archivo
+3. Abrir el archivo "bolos" en navegador Edge o Chrome.
+4. Dar click en "Connect BT Device" ubicado en la parte superior izquierda.
+5. Emparejar el dispositivo ESP32.
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Con el cumplimiento de los pasos anteriores el juego debe funcionar correctamente._
 
-## Ejecutando las pruebas ⚙️
+## Descripción del mando ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
+
+![Imágen del circuito electrónico del mando inalámbrico](https://raw.githubusercontent.com/nataliagarciaparra/ProyectofinalSDII/master/assets/ImagenV1.png)
 
 ### Analice las pruebas end-to-end 🔩
 
