@@ -22,9 +22,11 @@ _Con el cumplimiento de los pasos anteriores el juego debe funcionar correctamen
 
 ## Descripción del mando ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_El mando inalámbrico del juego está conformado por un módulo ESP32 que fue precisamente escogido para permitir que el mando se comunicara de manera inalámbrica por su módulo Bluetooth, junto con este se tiene el acelerómetro y giroscopio MPU6050 con el que se detecta la posición y la intensidad por medio de registros a bajo nivel para una mayor precisión de los datos tomados por el sensor._
 
-![Imágen del circuito electrónico del mando inalámbrico](https://raw.githubusercontent.com/nataliagarciaparra/ProyectofinalSDII/master/assets/Circuito electrónico del mando.jpeg)
+_Adicional a los elementos anteriores, se cuenta con un botón que al ser presionado detectará la señal para lanzar el bolo en la posición en la que fue ubicado._
+
+![Imágen del circuito electrónico del mando inalámbrico](https://raw.githubusercontent.com/nataliagarciaparra/ProyectofinalSDII/master/Circuito-electrónico-del-mando.jpeg)
 
 
 ## Autores ✒️
