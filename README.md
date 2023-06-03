@@ -29,8 +29,7 @@ _Explica como ejecutar las pruebas automatizadas para este sistema_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Natalia García Parra** - [natalia.garciap@uqvirtual.edu.co](natalia.garciap@uqvirtual.edu.co)
+* **Fabián Forero**
+* **Juan Esteban Hernandez** 
 
