@@ -24,7 +24,7 @@ _Con el cumplimiento de los pasos anteriores el juego debe funcionar correctamen
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-![Imágen del circuito electrónico del mando inalámbrico](https://raw.githubusercontent.com/nataliagarciaparra/ProyectofinalSDII/master/assets/ImagenV1.png)
+![Imágen del circuito electrónico del mando inalámbrico](https://raw.githubusercontent.com/nataliagarciaparra/ProyectofinalSDII/master/assets/Circuito electrónico del mando.jpeg)
 
 
 ## Autores ✒️
